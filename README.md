@@ -22,7 +22,7 @@ A simple and responsive To-Do List web application built using HTML, CSS, and Ja
 
 ## 📁 How to Run
 1. Clone the repository:
-git clone
+git clone: https://github.com/srilekhachokkarapu/To-Do-List-/blob/main/index.html
 2. Open `index.html` in your browser.
 3. Start adding your tasks!
 
